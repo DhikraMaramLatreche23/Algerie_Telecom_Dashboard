@@ -13,7 +13,6 @@ A data science and AI internship project developed at **Algérie Télécom – A
 | **Dhikra Maram LATRECHE** | ENSIA – National Higher School of Artificial Intelligence |
 | **Hadjer BORDJIBA** | ENSIA – National Higher School of Artificial Intelligence |
 
-**Supervisor:** Med Amir LAKNAOUI  
 **Host Company:** Algérie Télécom – Annaba  
 **Date:** September 2025
 
